@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div>
+        Accessories
+    </div>
 </template>
 
 <script>

@@ -1,10 +1,12 @@
 <template>
-    
+    <div>
+        kk
+    </div>
 </template>
 
 <script>
     export default {
-        name: "Walets View"
+        name: "WaletsView"
     }
 </script>
 

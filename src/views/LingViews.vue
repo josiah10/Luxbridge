@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div>
+        <p>kk</p>
+    </div>
 </template>
 
 <script>

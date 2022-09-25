@@ -1,12 +1,12 @@
 <template>
     <div>
-        <p>nio</p>
+        <p>BrandsView</p>
     </div>
 </template>
 
 <script>
     export default {
-        name: "BabyView"
+        name: "BrandsView"
     }
 </script>
 

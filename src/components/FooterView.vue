@@ -4,7 +4,7 @@
 
 <script>
     export default {
-        name: "KidsView"
+        name: "FooterView"
     }
 </script>
 

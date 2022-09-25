@@ -1,12 +1,10 @@
 <template>
-    <div>
-        kkk
-    </div>
+    $END$
 </template>
 
 <script>
     export default {
-        name: "MenView"
+        name: "NavBar"
     }
 </script>
 

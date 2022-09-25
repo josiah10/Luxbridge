@@ -6,7 +6,7 @@
 
 <script>
     export default {
-        name: "btn",
+        name: "btnAll",
         props:{
             name:String,
         }
@@ -21,5 +21,6 @@
         background-color: #FAB131;
         font-size: 16px;
         line-height: 19px;
+        cursor: pointer;
     }
 </style>
